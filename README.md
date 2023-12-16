@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on speaker diarization at [telecom-paris adasp group](https://adasp.telecom-paris.fr/)
+- 🌱 I’m currently learning anything about AI
+- ❤️ I like 🇨🇳 philosophy, history, culture
+- I like 🏓🏊🧑‍🍳📖💻✍️🎵🎤
+
+🎯 Always prepared, 🤔 Doubt everything.
