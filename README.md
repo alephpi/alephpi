@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a PhD student working on speaker diarization at [telecom-paris adasp group](https://adasp.telecom-paris.fr/)
-- 🌱 I’m currently learning anything about AI
-- ❤️ I like 🇨🇳 philosophy, history, culture
+- 🎓 I am a PhD in Computer Science. I was major in Math and was working on speaker diarization at [telecom-paris adasp group](https://adasp.telecom-paris.fr/).
+- 🌱 I’m currently learning anything about AI.
+- 🔭 I'm particularly interested on low-resource TTS and Guqin music electronization.
+- ❤️ Besides technology, I like 🇨🇳 philosophy, history, culture. I also learn Hegelian Logics, Marxist Dialectics and Lacanian Psychoanalysis on my own.
 - I like 🏓🏊🧑‍🍳📖💻✍️🎵🎤
 
 🎯 Always prepared, 🤔 Doubt everything.
